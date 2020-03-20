@@ -1,0 +1,63 @@
+.red_txt{
+  color:red
+}
+.bg_color_change{
+  width:900px;
+  height:200px;
+  background-color:red;
+  text-align:center;
+}
+
+.box{
+  width:50px;
+  height:50px;
+  margin:20px;
+  padding:20px;
+  background-color:blue;
+}
+
+.box1{
+  width:100px;
+  height:100px;
+  background-color: blue;
+
+}
+
+.box2{
+  width:100px;
+  height:100px;
+  background-color: red;
+
+}
+
+.box3{
+  width:100px;
+  height:100px;
+  background-color: green;
+
+}
+.wrapper{
+  display: flex;
+}
+
+.box4{
+  width:100px;
+  height:100px;
+  background-color: green;
+}
+
+.box5{
+  width:100px;
+  height:100px;
+  background-color: blue;
+}
+
+.box6{
+  width:100px;
+  height:100px;
+  background-color: red;
+}
+
+.wrapper1{
+  display: flex;
+}
