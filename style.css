@@ -83,283 +83,154 @@ header .main_width .flex_box .ul_list .contact a::before {
   color: white;
 }
 
-/* *********************************************** */
-
-.wrapper{
+/* contents part */
+.wrapper2 {
   background-color: #00008B;
-  color: white;
-
-
-  margin-top: 0px;
-  width:1259px;
-
-  font-size: 10px;
-  padding-top: 5px;
-  padding-right: 20px;
-  padding-bottom: 5px;
-  padding-left: 800px;
-
-
-
-
-}
-
-.img1{
-  margin-top: 10px;
-
-
-
-}
-
-.wrapper1 ul{
-
-  justify-content: flex-end;
-
-
-  margin-top: 12px;
-
-
-
-
-}
-
-.wrapper1 li{
-  float:left;
-  list-style: none;
-  margin-right: 70px;
-
-}
-
-.big1{
-  font-size: 13px;
-  color:gray;
-  margin-top: 5px;
-  margin-left: 0px;
-}
-
-.big2{
-  font-size: 13px;
-  color:gray;
-  margin-top: 5px;
-}
-
-.big3{
-  font-size: 13px;
-  color:gray;
-  margin-top: 5px;
-}
-
-.big4{
-  font-size: 13px;
-  color:gray;
-  margin-top: 5px;
-}
-
-.big5{
-  font-size: 13px;
-  color:gray;
-  margin-top: 5px;
-
-}
-
-.big6{
-  background-color: red;
-  padding:5px 20px;
-  margin-top: 2px;
-
-  color: white;
-  border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
-  font-size: 7px;
-
-}
-
-.big6::before{
-  font-family: "Font Awesome 5 Free";
-  content: '\f0e0';
-  font-weight:bold;
-  margin-right: 10px;
-
-}
-
-.main_width{
-  width: 1259px;
-  margin: auto;
-  height: auto;
-
-}
-
-.wrapper2{
-
-  background-color: #00008B;
-
-  width:1255px;
+  margin-left: 90px;
+  width: 1255px;
   position: absolute;
   list-style: none;
   position: relative;
-  height:230px;
-
-
+  height: 230px;
 }
 
-.wrap1{
+.wrap1 {
   list-style: none;
   font-size: 20px;
 }
 
-.item1{
+.item1 {
   color: white;
   margin-left: 185px;
 }
 
-.item2{
-  color:red;
+.item2 {
+  color: red;
   background-color: #F0E68C;
-
   padding: 3px 70px;
   margin-left: 80px;
   margin-right: 595px;
-
 }
 
-span1{
+span1 {
   font-size: 30px;
 }
 
-.item3{
+.item3 {
   margin-left: 185px;
   color: white;
 }
 
-.item3::before{
-  content:"\\";
+.item3::before {
+  content: "\\";
   font-size: 30px;
   color: white;
-
 }
 
-.item3::after{
-  content:"/";
+.item3::after {
+  content: "/";
   font-size: 30px;
   color: white;
-
 }
 
-.text::before{
+.text::before {
   font-family: "Font Awesome 5 Free";
   content: '\f0e0';
-  font-weight:bold;
+  font-weight: bold;
 }
 
-.photo1{
-
-
+.photo1 {
+  margin-left: 90px;
+  margin-right: 40px;
   margin-top: 10px;
   margin-bottom: -27px;
-
-
+}
 }
 
-
-
-
+.soccer {
+  float: left;
 }
 
-.soccer{
-  float:left;
-
-
-
-
-}
-
-.item4{
+.item4 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   margin-left: 0px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
-
-
-
-
-
 }
 
-.item5{
+.item5 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
-
-
 }
 
-.item6{
+.item6 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
-
 }
 
-.item7{
+.item7 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
 }
 
-.item8{
+.item8 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
 }
 
-.item9{
+.item9 {
   list-style: none;
   float: left;
   margin-right: 40px;
   font-size: 15px;
   background-color: red;
-  color:white;
+  color: white;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
   padding: 5px 5px;
   text-align: center;
   width: 80px;
 }
 
-.wrap3{
+.wrap3 {
   color: white;
   background-color: gray;
   list-style: none;
@@ -367,113 +238,97 @@ span1{
   padding-top: 80px;
   position: absolute;
   width: 250px;
-  height:133px;
-  top:0px;
-  bottom:0px;
-  left:700px;
-  right:0px;
-  margin:auto;
+  height: 133px;
+  top: 0px;
+  bottom: 0px;
+  left: 700px;
+  right: 0px;
+  margin: auto;
   border-radius: 10px 10px 10px 10px/10px 10px 10px 10px;
-
   text-align: center;
-
-
-
 }
 
-.wrapper3{
-  position: relative;
+/* main_part */
+.main_part {
+  margin: auto;
+  margin-top: 20px;
+}
+
+.main_part .wrapper3 {
   text-align: center;
   background-color: #FFFF99;
   color: #FF773E;
-  font-size:30px;
-
-
-  width:1259px;
-  height:400px;
-  margin-top: 100px;
-  margin-bottom: 0px;
+  font-size: 30px;
+  padding: 5px;
+  margin: auto;
+  width: 200px;
 }
 
-.photo2{
-  position: absolute;
+.photo2 {
   text-align: center;
 }
 
-.contents{
-  position:absolute;
-
+.main_part .contents {
+  display: -webkit-flex;
+  display: -ms-flex;
   display: flex;
-
-
-
-}
-
-.photo3{
-
-
+  justify-content: space-around;
+  max-width: 1259px;
   margin: auto;
-
-
-
 }
 
-.item11{
+.item11 {
   text-align: right;
   padding-bottom: 0px;
-  margin:0px;
-  color:red;
+  margin: 0px;
+  color: red;
   font-size: 10px;
-
 }
 
-.item12{
-  margin:0px;
+.item12 {
+  margin: 0px;
   font-size: 15px;
-
-
 }
 
-.item13{
-margin: 0px;
-font-size: 10px;
-color: gray;
+.item13 {
+  margin: 0px;
+  font-size: 10px;
+  color: gray;
 }
 
-span2{
+span2 {
   font-size: 15px;
-  color:red;
+  color: red;
 }
 
-.wrapper4{
+.wrapper4 {
   background-color: blue;
   margin-top: 430px;
   margin-bottom: 0px;
-
-
 }
 
-.item14{
+.item14 {
   color: white;
   list-style: none;
   padding-left: 0px;
   margin-left: 0px;
 }
 
-.item15{
+.item15 {
   color: white;
   list-style: none;
   padding-left: 0px;
   margin-left: 0px;
 }
 }
-.text::after{
-  content:"/";
-  font-size:50px;
-  color:black;
+
+.text::after {
+  content: "/";
+  font-size: 50px;
+  color: black;
 }
 
-ul1{
+ul1 {
   margin: 0px;
   padding-left: 0px;
 }
